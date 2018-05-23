@@ -6,7 +6,7 @@ A repository for the kids' art.
 ### 2018
 
 ![My Family](https://github.com/joebayles/art-gallery/blob/master/2018/MyFamily.jpg)  
-*Joanna Bayles*   
+*Joanna Bayles*  
 __My Family__ (2018)  
 Ink on Cardstock  
 3" x 5"
