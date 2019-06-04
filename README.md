@@ -94,3 +94,9 @@ Wax on Cardstock
 __Rainbow Words and Hearts__ (2018)  
 Wax on Cardstock  
 8 1/2" x 11"
+
+![Solar System](https://github.com/joebayles/art-gallery/blob/master/2018/Solar_System.jpg)  
+*Joanna Bayles*\
+__Solar System__ (2019)  
+Wax on Paper  
+9" x 9"
