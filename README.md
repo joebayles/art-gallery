@@ -97,9 +97,11 @@ Wax on Cardstock
 
 ![Solar System](https://github.com/joebayles/art-gallery/blob/master/2018/Solar_System.jpg)  
 *Joanna Bayles*\
-__Solar System__ (2019)  
+__Solar System__ (2018)  
 Wax on Paper  
 9" x 9"
+
+
 
 ### 2019
 
@@ -221,6 +223,30 @@ Wax on Paper
 __Cutie Face__ (2019)  
 Assorted Media  
 11" x 8 1/2"
+
+![Doggy Horse](https://github.com/joebayles/art-gallery/blob/master/2019/doggy-horse.jpg)  
+*Catherine Bayles*\
+__Doggy Horse__ (2019)  
+Ink on Cardstock  
+11" x 8 1/2"
+
+![The Castle](https://github.com/joebayles/art-gallery/blob/master/2019/the-castle.jpg)  
+*Joanna Bayles*\
+__The Castle__ (2019)  
+Pencil on Paper  
+12" x 9"
+
+![Bursting Volcano](https://github.com/joebayles/art-gallery/blob/master/2019/bursting-volcano.jpg)  
+*Joanna Bayles*\
+__Bursting Volcano__ (2019)  
+Ink on Paper  
+7" x 5"
+
+![Nature](https://github.com/joebayles/art-gallery/blob/master/2019/nature.jpg)  
+*Joanna Bayles*\
+__Nature__ (2019)  
+Pencil on Paper  
+5" x 11"
 
 ### 2020
 
