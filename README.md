@@ -5,7 +5,7 @@ A repository for the kids' art.
 
 ### 2018
 
-![My Family](https://github.com/joebayles/art-gallery/blob/master/2018/My_Family.jpg)  
+![My Family](https://github.com/joebayles/art-gallery/blob/master/2018/My_Family.jpg)  
 *Joanna Bayles*\
 __My Family__ (2018)  
 Ink on Cardstock  
@@ -100,3 +100,147 @@ Wax on Cardstock
 __Solar System__ (2019)  
 Wax on Paper  
 9" x 9"
+
+### 2019
+
+![Tornado](https://github.com/joebayles/art-gallery/blob/master/2019/tornado.jpg)  
+
+*Joanna Bayles*\
+__Tornado__ (2019)  
+Ink on Paper  
+8 1/2" x 11"
+
+![Family and Friends](https://github.com/joebayles/art-gallery/blob/master/2019/family-and-friends.jpg)  
+
+*Joanna Bayles*\
+__Family and Friends__ (2019)  
+Wax on Paper  
+11" x 8 1/2"
+
+![Daddy on a Trip](https://github.com/joebayles/art-gallery/blob/master/2019/daddy-on-a-trip.jpg)  
+
+*Joanna Bayles*\
+__Daddy on a Trip__ (2019)  
+Ink on Paper  
+11" x 8 1/2"
+
+![Farm Friends Forever](https://github.com/joebayles/art-gallery/blob/master/2019/farm-friends-forever.jpg)  
+
+*Joanna Bayles*\
+__Farm Friends Forever__ (2019)  
+Ink on Paper  
+11" x 8 1/2"
+
+![Submarine Friends](https://github.com/joebayles/art-gallery/blob/master/2019/submarine-friends.jpg)  
+
+*Joanna Bayles*\
+__Submarine Friends__ (2019)  
+Ink on Paper  
+11" x 8 1/2"
+
+![Ocean Friends](https://github.com/joebayles/art-gallery/blob/master/2019/ocean-friends.jpg)  
+
+*Joanna Bayles*\
+__Ocean Friends__ (2019)  
+Ink on Paper  
+11" x 8 1/2"
+
+![Lion King](https://github.com/joebayles/art-gallery/blob/master/2019/lion-king.jpg)  
+
+*Joanna Bayles*\
+__Lion King__ (2019)  
+Ink on Paper  
+11" x 8 1/2"
+
+![Rainbow Family](https://github.com/joebayles/art-gallery/blob/master/2019/rainbow-family.jpg)  
+
+*Joanna Bayles*\
+__Rainbow Family__ (2019)  
+Ink on Paper  
+9" x 12"
+
+![Birthday Cake](https://github.com/joebayles/art-gallery/blob/master/2019/birthday-cake.jpg)  
+
+*Joanna Bayles*\
+__Birthday Cake__ (2019)  
+Wax on Paper  
+8 1/2" x 11"
+
+![Sweet Shop](https://github.com/joebayles/art-gallery/blob/master/2019/sweet-shop.jpg)  
+
+*Joanna Bayles*\
+__Sweet Shop__ (2019)  
+Pencil on Paper  
+8 1/2" x 11"
+
+![Flying Yak](https://github.com/joebayles/art-gallery/blob/master/2019/flying-yak.jpg)  
+
+*Joanna Bayles*\
+__Flying Yak__ (2019)  
+Paper  
+12" x 9"
+
+![Snow Robot](https://github.com/joebayles/art-gallery/blob/master/2019/snow-robot.jpg)  
+
+*Joanna Bayles*\
+__Snow Robot__ (2019)  
+Acrylic on Paper  
+9" x 12"
+
+![Africa](https://github.com/joebayles/art-gallery/blob/master/2019/africa.jpg)  
+
+*Catherine Bayles*\
+__Africa__ (2019)  
+Assorted Media  
+9" x 12"
+
+![Kiwi Box](https://github.com/joebayles/art-gallery/blob/master/2019/kiwi-box.jpg)  
+
+*Joanna Bayles*\
+__Kiwi Box__ (2019)  
+Wax on Cardstock  
+11" x 8 1/2"
+
+![Daddy and Sisters](https://github.com/joebayles/art-gallery/blob/master/2019/daddy-and-sisters.jpg)  
+
+*Joanna Bayles*\
+__Daddy and Sisters__ (2019)  
+Ink on Paper  
+5" x 5"
+
+![The Stocking](https://github.com/joebayles/art-gallery/blob/master/2019/the-stocking.jpg)  
+
+*Joanna Bayles*\
+__The Stocking__ (2019)  
+Wax on Paper  
+7" x 9"
+
+![Cutie Face](https://github.com/joebayles/art-gallery/blob/master/2019/cutie-face.jpg)  
+
+*Joanna Bayles*\
+__Cutie Face__ (2019)  
+Assorted Media  
+11" x 8 1/2"
+
+### 2020
+
+![Flower Power](https://github.com/joebayles/art-gallery/blob/master/2020/flower-power.jpg)  
+
+*Joanna Bayles*\
+__Flower Power__ (2020)  
+Assorted Media  
+12" x 9"
+
+![Rainbow Page](https://github.com/joebayles/art-gallery/blob/master/2020/rainbow-page.jpg)  
+
+*Joanna Bayles*\
+__Rainbow Page__ (2020)  
+Pencil on Paper  
+11" x 8 1/2"
+
+![Rainbow Fish](https://github.com/joebayles/art-gallery/blob/master/2020/rainbow-fish.jpg)  
+
+*Joanna Bayles*\
+__Rainbow Fish__ (2020)  
+Wax on Paper  
+10" x 7 1/2"
